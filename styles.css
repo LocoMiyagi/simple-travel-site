@@ -9,3 +9,15 @@ font-family: "Garamond", sans-serif, serif;
 
     border: 1px solid;
 }
+footer{
+margin-top: 5em;
+
+} 
+
+#message{
+background-color: antiquewhite;
+white-space: normal;
+text-align: justify;
+
+}
+
